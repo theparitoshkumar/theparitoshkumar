@@ -1,11 +1,11 @@
-# [Hi <img src="hi.gif" width="30px"> I am Paritosh Kumar](https://theparitoshkumar.com)
+# [Hi <img src="hi.gif" width="50px"> I am Paritosh Kumar](https://theparitoshkumar.com)
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
 ![Redefining Cosmos](cover.gif)
 
-### My Tech Toolbox [<img src="programmer.gif" width="30px>]
+### My Tech Toolbox 👨‍💻
 
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="40" height="40"/>
@@ -28,12 +28,16 @@
 * I am currently learning Kivy and OpenCV
 * I’m currently working on my portfolio.
 
+<details>
 <summary>📊 Github Stats</summary>
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=theparitoshkumar&show_icons=true&theme=gotham" alt="Paritosh Kumar | Stats" />
 
+</details>
 
 
 ![Visitor Count](https://profile-counter.glitch.me/%7Btheparitoshkumart%7D/count.svg)
+
 
 
 [twitter]: https://twitter.com/paritoshkumar_1
