@@ -5,15 +5,15 @@
 
 ![Redefining Cosmos](cover.gif)
 
-### My Tech Toolbox <img src="programmer.gif" width="30px>
+### My Tech Toolbox [<img src="programmer.gif" width="30px>]
 
 <p align="left">
-<img src="https://simple.wikipedia.org/wiki/C_(programming_language)#/media/File:C_Programming_Language.svg" alt="C" width="40" height="40"/>
-<img src="https://en.wikipedia.org/wiki/C%2B%2B#/media/File:ISO_C++_Logo.svg" alt="C++" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/>
-<img src="https://en.wikipedia.org/wiki/MySQL#/media/File:MySQL_logo.svg" alt="MySQL" width="40" height="40"/>
-<img src="https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://en.wikipedia.org/wiki/CSS#/media/File:CSS3_logo_and_wordmark.svg" alt="CSS" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="40" height="40"/>
 </p>
 
 * First Love Programming Language: C++
@@ -28,12 +28,9 @@
 * I am currently learning Kivy and OpenCV
 * I’m currently working on my portfolio.
 
-<details>
 <summary>📊 Github Stats</summary>
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=theparitoshkumar&show_icons=true&theme=gotham" alt="Paritosh Kumar | Stats" />
 
-</details>
 
 
 ![Visitor Count](https://profile-counter.glitch.me/%7Btheparitoshkumart%7D/count.svg)
