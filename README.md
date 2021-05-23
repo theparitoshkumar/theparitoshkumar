@@ -25,8 +25,10 @@
 * Upcoming [Technical Content Writer](theparitoshkumar.com) & upcoming [YouTuber](https://www.youtube.com/channel/UCs7iKHCnLJ8vOuGKWd55vVw)
 * I am working on building my online presence and doing my bit to spread knowledge & mentor fellow Programmer who are starting our their programming journey.
 * Join my [Discord server](https://discord.com/invite/CY3FzGyWUU)
-* I am currently learning Kivy and OpenCV
-* I’m currently working on my portfolio.
+* I am currently learning **Project Management** Kivy and OpenCV
+* I’m currently working on cross-platform photography application.
+
+---
 
 <details>
 <summary>📊 Github Stats</summary>
