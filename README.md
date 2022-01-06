@@ -48,5 +48,6 @@
 [gmail]: mailto:theparitoshkumar@gmail.com
 [linkedin]: https://www.linkedin.com/in/theparitoshkumar/
 [instagram]: https://www.instagram.com/theparitoshkumar/
+[codepen]: https://codepen.io/theparitoshkumar
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
